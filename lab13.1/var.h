@@ -1,0 +1,7 @@
+
+#pragma once
+namespace nsVar {
+
+	extern int n; 
+	extern double x, xp, xk, dx, e, a, result, s;
+};

@@ -1,0 +1,8 @@
+﻿  UnitTest1.cpp
+C:\Users\User\source\repos\lab13.2\Source.cpp(28,3): warning C4101: 'z_plus_sqrx': unreferenced local variable
+C:\Users\User\source\repos\lab13.2\Source.cpp(24,3): warning C4101: 'y_kvad': unreferenced local variable
+C:\Users\User\source\repos\lab13.2\Source.cpp(25,3): warning C4101: 'x_kvad': unreferenced local variable
+C:\Users\User\source\repos\lab13.2\Source.cpp(26,3): warning C4101: 'x_plus_ykvad': unreferenced local variable
+C:\Users\User\source\repos\lab13.2\Source.cpp(27,3): warning C4101: 'x_plus_sqry': unreferenced local variable
+C:\Users\User\source\repos\lab13.2\Source.cpp(29,3): warning C4101: 'maxim': unreferenced local variable
+  UnitTest1.vcxproj -> C:\Users\User\source\repos\lab13.2\x64\Debug\UnitTest1.dll
